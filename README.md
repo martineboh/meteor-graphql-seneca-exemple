@@ -1,4 +1,4 @@
-# Meteor/Senecajs/Grapqhl exemple
+# MeteorJS/SenecaJS/GraphQL exemple
 
 This exemple showcase the integration of microservices with [SenecaJS](http://senecajs.org/) and [MeteorJS](https://www.meteor.com/) by exposing a [GraphQL](http://graphql.org/) endpoint with the help of the new library [ApolloStack](http://www.apollostack.com/)
 
