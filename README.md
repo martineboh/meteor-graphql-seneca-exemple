@@ -1,12 +1,14 @@
 # Meteor/Senecajs/Grapqhl exemple
 
-This exemple showcase the integration of microservices with [SenecaJS](http://senecajs.org/) and [MeteorJS](https://www.meteor.com/) by exposing a [GraphQL](http://graphql.org/) endpoint with the help of the newest library [ApolloStack](http://www.apollostack.com/)
+This exemple showcase the integration of microservices with [SenecaJS](http://senecajs.org/) and [MeteorJS](https://www.meteor.com/) by exposing a [GraphQL](http://graphql.org/) endpoint with the help of the new library [ApolloStack](http://www.apollostack.com/)
 
 ## Installation
 
 Install meteor `curl https://install.meteor.com/ | sh`
 
-Clone the repo `git clone https://github.com/Vanahe/meteor-graphql-seneca-exemple.git && cd meteor-graphql-seneca-exemple`
+Clone the repo 
+
+`git clone https://github.com/Vanahe/meteor-graphql-seneca-exemple.git && cd meteor-graphql-seneca-exemple`
 
 Install npm dependencies `meteor npm install`
 
