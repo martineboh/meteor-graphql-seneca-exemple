@@ -1,0 +1,33 @@
+{
+  "name": "meteor-graphql-senecajs-exemple",
+  "version": "1.0.0",
+  "license": "MIT",
+  "description": "MeteorJS, SenecaJS and GraphQL integration sample",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Vanahe/meteor-graphql-seneca-exemple.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Vanahe/meteor-graphql-seneca-exemple/issues"
+  },
+  "homepage": "https://github.com/Vanahe/meteor-graphql-seneca-exemple#readme",
+  "keywords": [
+    "GraphQL",
+    "MeteorJS",
+    "SenecaJS",
+    "microservices"
+  ],
+  "author": "Marc Dijoux <marc.dijoux@vanahe.com>",
+  "scripts": {
+    "start": "meteor run"
+  },
+  "dependencies": {
+    "bluebird": "^3.3.5",
+    "express": "^4.13.4",
+    "graphql": "^0.5.0",
+    "graphql-tools": "^0.3.8",
+    "http-proxy-middleware": "^0.14.0",
+    "meteor-node-stubs": "~0.2.0",
+    "seneca": "^2.0.1"
+  }
+}
